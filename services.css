@@ -171,10 +171,13 @@
     margin-top: 35px;
   }
   #conbut5{
-    margin-top: 80px;
+    margin-top: 55px;
   }
   #service6{
     height: 580px;
+  }
+  #service6>.detail-box{
+    margin-top: 35px;
   }
   #conbut6{
     margin-top: 75px;
