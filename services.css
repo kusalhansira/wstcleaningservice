@@ -155,11 +155,14 @@
   #service2{
     height: 560px;
   }
+  #service2>.detail-box{
+    margin-top: 35px;
+  }
   #conbut1{
     margin-top: 32px;
   }
   #conbut2{
-    margin-top: 24px;
+    margin-top: 8px;
   }
   #service5{
     height: 580px;
