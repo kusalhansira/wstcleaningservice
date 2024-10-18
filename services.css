@@ -167,6 +167,9 @@
   #service5{
     height: 580px;
   }
+  #service5>.detail-box{
+    margin-top: 35px;
+  }
   #conbut5{
     margin-top: 80px;
   }
@@ -174,7 +177,7 @@
     height: 580px;
   }
   #conbut6{
-    margin-top: 20px;
+    margin-top: 75px;
   }
 }
 @media (max-width:767px) and (min-width:576px){
