@@ -389,6 +389,9 @@
   #service2{
     height: 560px;
   }
+  #service2>.detail-box{
+    margin-top: 35px;
+  } 
   #conbut2{
     margin-top: 24px;
   }
